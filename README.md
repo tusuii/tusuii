@@ -3,9 +3,11 @@
 <h2> Data Analyst </h2>
 --->
 
+<!--
 <a href="#tusuii-title">
   <img src="https://github-readme-stats.vercel.app/api?username=tusuii&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Subodh Kamble" align="right" />
 </a>
+-->
 
 - :office: &nbsp;I'm currently working at **NONE**
 - :seedling: &nbsp;I’m currently learning **[Hadoop]**
