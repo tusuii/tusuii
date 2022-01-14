@@ -90,9 +90,9 @@
    <tr>
     <td align="center" width="96">
       <a href="#Subodh Kamble-tech">
-        <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" width="48" height="48" alt="Bash" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" width="48" height="48" alt="Haskell" />
       </a>
-      <br>Bash
+      <br>Haskell
     </td>
     <td align="center" width="96">
       <a href="#Subodh Kamble-tech">
