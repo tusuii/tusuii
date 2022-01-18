@@ -10,7 +10,7 @@
 -->
 
 - :office: &nbsp;I'm currently working at **NONE**
-- :seedling: &nbsp;I’m currently learning **[Hadoop]**
+- :seedling: &nbsp;I’m currently learning **[haskell]**
 - :speech_balloon: &nbsp;I like to talk about **Data Science**,**Gnu/Linux**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
 - :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/subodh-kamble)**
