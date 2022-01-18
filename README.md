@@ -1,9 +1,11 @@
 <h1 align="left" id="Subodh Kamble-title">:wave: Hello there! I'm Subodh Kamble</h1>
 
 
---->
-<h2> Data Analyst </h2>
+
+
 <!--
+
+<h2> Data Analyst </h2>
 <a href="#tusuii-title">
   <img src="https://github-readme-stats.vercel.app/api?username=tusuii&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Subodh Kamble" align="right" />
 </a>
