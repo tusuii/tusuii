@@ -126,6 +126,6 @@
     
 </table>
 
-[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=tusuii&theme=react-dark)](https://github.com/tusuii)
+<!--[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=tusuii&theme=react-dark)](https://github.com/tusuii)
 
 
