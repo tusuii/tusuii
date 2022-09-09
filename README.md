@@ -11,9 +11,9 @@
 </a>
 -->
 
-- :office: &nbsp;I'm currently working at **NONE**
+- :office: &nbsp;I'm currently Studying **Computer Science from MU**
 - :seedling: &nbsp;I’m currently learning **[Design Pattern]**
-- :speech_balloon: &nbsp;I like to talk about **Data Science**,**Gnu/Linux**
+- :speech_balloon: &nbsp;I like to talk about **Data Science**,**Gnu/Linux** and **FP**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
 - :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/subodh-kamble)**
 
@@ -126,6 +126,6 @@
     
 </table>
 
-<!--[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=tusuii&theme=react-dark)](https://github.com/tusuii)
+[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=tusuii&theme=react-dark)](https://github.com/tusuii)
 
 
