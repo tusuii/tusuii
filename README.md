@@ -3,13 +3,14 @@
 
 
 
-<!--
 
+<!--
 <h2> Data Analyst </h2>
 <a href="#tusuii-title">
   <img src="https://github-readme-stats.vercel.app/api?username=tusuii&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Subodh Kamble" align="right" />
 </a>
 -->
+
 
 - :office: &nbsp;I'm currently Studying **Computer Science from MU**
 - :seedling: &nbsp;I’m currently learning **[Design Pattern]**
@@ -126,6 +127,29 @@
     
 </table>
 
-<!--[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=tusuii&theme=react-dark)](https://github.com/tusuii)
+--- 
+<!--
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <br/>
+  <div style="width: 100%;">
+      <div style="width: 50%; height: 100px; float: left; background: green;"> 
+             <img src="https://github-readme-stats.vercel.app/api?username=tusuii&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Subodh Kamble" align="left" />
+        </div>
+        
+    
+        <div style="margin-left: 50%; background: blue;"> 
+            <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=tusuii&layout=compact&langs_count=10" alt="Subodh Kamble" align="right"/>
+        </div>
+    </div>
+</details>
+-->
+
+<details>
+<summary>:zap: GitHub Stats</summary>
+<br/>
+<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=tusuii&layout=compact&langs_count=10" alt="Subodh Kamble" align="center"/>
+</details>
+
 
 
