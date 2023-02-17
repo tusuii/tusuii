@@ -151,7 +151,14 @@
 <div align="justify">
 <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=tusuii&layout=compact&langs_count=10" alt="Subodh Kamble" align="left"/>
   <img src="https://github-readme-stats.vercel.app/api?username=tusuii&show_icons=true&bg_color=#F472B6&count_private=true&show_icons=true&include_all_commits=true" />
+  
+  
+  <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tusuii&theme=vue" align="left"/>
+</p>
 </div>
+
+
 
 </details>
 
