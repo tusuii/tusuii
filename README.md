@@ -153,8 +153,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=tusuii&show_icons=true&bg_color=#F472B6&count_private=true&show_icons=true&include_all_commits=true" />
   
   
-  <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tusuii&theme=vue" align="left"/>
+  <p align="left" width="auto">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tusuii&theme=github" />
 </p>
 </div>
 
