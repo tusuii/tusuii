@@ -34,6 +34,12 @@
     </td>
     <td align="center" width="96">
       <a href="#Subodh Kamble-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/MySQL_Dolphin.jpg/640px-MySQL_Dolphin.jpg" width="48" height="48" alt="Python" />
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <a href="#Subodh Kamble-tech">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="Javascript" />
       </a>
       <br>JavaScript
@@ -56,16 +62,21 @@
       </a>
       <br>Inkscape
     </td>
-    
+    <td align="center" width="96">
+      <a href="#Subodh Kamble-tech" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
   </tr>
   
   
   <tr>
      <td align="center" width="96">
       <a href="#Subodh Kamble-tech" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/640px-Svelte_Logo.svg.png" width="48" height="48" alt="Git" />
       </a>
-      <br>Git
+      <br>Svelte
     </td>
     <td align="center" width="96">
       <a href="#Subodh Kamble-tech" >
@@ -91,41 +102,21 @@
       </a>
       <br>Material ui
     </td>
-    
-  </tr>
-  
-   <tr>
     <td align="center" width="96">
       <a href="#Subodh Kamble-tech">
         <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" width="48" height="48" alt="Haskell" />
       </a>
       <br>Haskell
     </td>
-    <td align="center" width="96">
-      <a href="#Subodh Kamble-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
-      </a>
-      <br>Figma
-    </td>
-    <td align="center" width="96">
-      <a href="#Subodh Kamble-tech">
-        <img src="https://iconape.com/wp-content/png_logo_vector/cib-flask.png" width="48" height="48" alt="Flask" />
-      </a>
-      <br>Flask
-    </td>
-     <td align="center" width="96"> 
+    <td align="center" width="96"> 
       <a href="#Subodh Kamble-tech" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/OOjs_UI_icon_regular-expression-progressive.svg" width="48" height="48" alt="Redux" />
       </a>
       <br>regex
     </td>
-     <td align="center" width="96"> 
-      <a href="#Subodh Kamble-tech" >
-        <img src="https://brandeps.com/logo-download/G/Google-Cloud-logo-vector-01.svg" width="48" height="48" alt="Google Cloud" />
-      </a>
-      <br>G Cloud
-    </td>
   </tr>
+  
+
     
 </table>
 
