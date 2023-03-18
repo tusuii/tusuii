@@ -1,3 +1,4 @@
+<h2><img src="borderseperator.gif"></h2>
 <h1 align="left" id="Subodh Kamble-title">:wave: Hello there! I'm Subodh Kamble</h1>
 
 
@@ -119,8 +120,8 @@
 
     
 </table>
+<h2><img src="borderseperator.gif"></h2>
 
---- 
 <!--
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -151,6 +152,10 @@
 </p>
 </div>
 
+<div align="center">
+  <h2> <strong> My Github Stats </strong> <img src="borderseperator.gif"></h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=tusuii&theme=nord&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br> <br>
+<br>
 
 
 </details>
