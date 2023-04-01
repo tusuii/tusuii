@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=18&duration=2800&pause=2000&color=FAFAFA&center=false&vCenter=true&width=940&height=50&lines=👋+Hello+there!+I'm+Subodh+Kamble+Welcome+to+my+Github+Profile!" align="left" alt="Hello there! I'm Subodh Kamble animated typed out">
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=24&duration=2800&pause=2000&color=FAFAFA&center=false&vCenter=true&width=940&height=50&lines=👋+Hello+there!+I'm+Subodh+Kamble+Welcome+to+my+Github+Profile!" align="left" alt="Hello there! I'm Subodh Kamble animated typed out">
 <h2><img src="borderseperator.gif"></h2>
 <!-- <h1 align="left" id="Subodh Kamble-title">:wave: Hello there!  Subodh Kamble</h1> -->
 
