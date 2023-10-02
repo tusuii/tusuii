@@ -16,8 +16,8 @@
 
 
 - :office: &nbsp;I'm currently Studying **Computer Science from MU**
-- :seedling: &nbsp;I’m currently learning **[Design Pattern]**
-- :speech_balloon: &nbsp;I like to talk about **Data Science**,**Gnu/Linux** and **FP**
+- :seedling: &nbsp;I’m currently learning **[Data Security]**
+- :speech_balloon: &nbsp;I like to talk about **Data Science**,**Gnu/Linux**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
 - :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/subodh-kamble)**
 
