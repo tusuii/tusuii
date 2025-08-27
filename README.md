@@ -16,7 +16,7 @@
 -->
 
 
-- :office: &nbsp;I'm currently looking for **DevSecOps/DevOps ROles**
+- :office: &nbsp;I'm currently looking for **DevSecOps/DevOps Roles**
 - :seedling: &nbsp;I’m currently learning **[KubeFlow]**
 - :speech_balloon: &nbsp;I like to talk about **DevOps/MlOps/DevSecOps**,**Gnu/Linux**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
