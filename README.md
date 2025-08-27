@@ -1,7 +1,8 @@
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=24&duration=2800&pause=2000&color=242B2E&center=false&vCenter=true&width=940&height=50&lines=👋+Hello+there!+I'm+Subodh+Kamble+Welcome+to+my+Github+Profile!" align="left" alt="Hello there! I'm Subodh Kamble animated typed out">
-<h2><img src="borderseperator.gif"></h2>
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=24&duration=2800&pause=2000&color=242B2E&center=false&vCenter=true&width=940&height=50&lines=👋+Hello+there!+I'm+Subodh+Kamble+Welcome+to+my+Github+Profile!" align="left" alt="Hello there! I'm Subodh Kamble animated typed out">
+<h2><img src="borderseperator.gif"></h2> -->
 <!-- <h1 align="left" id="Subodh Kamble-title">:wave: Hello there!  Subodh Kamble</h1> -->
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=2000&color=242B2E&center=false&vCenter=true&width=940&height=50&lines=%F0%9F%91%8B+Hello+there!+I'm+Subodh+Kamble+Welcome+to+my+GitHub+Profile!" align="left" alt="Hello there! I'm Subodh Kamble animated typed out">
+<h2><img src="borderseparator.gif"></h2>
 <br>
 
 
@@ -15,9 +16,9 @@
 -->
 
 
-- :office: &nbsp;I'm currently Studying **Computer Science from MU**
-- :seedling: &nbsp;I’m currently learning **[Data Security]**
-- :speech_balloon: &nbsp;I like to talk about **Data Science**,**Gnu/Linux**
+- :office: &nbsp;I'm currently looking for **DevSecOps/DevOps ROles**
+- :seedling: &nbsp;I’m currently learning **[KubeFlow]**
+- :speech_balloon: &nbsp;I like to talk about **DevOps/MlOps/DevSecOps**,**Gnu/Linux**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
 - :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/subodh-kamble)**
 
