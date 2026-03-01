@@ -24,102 +24,185 @@
 
 ![](https://komarev.com/ghpvc/?username=tusuii)
 
-<h2 align="left" id="Subodh Kamble-tech">Favorite Tech</h2>
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                              ⚙️ TECH ARSENAL                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-> Tools, languages, and other things that I like to work with.
+<div align="center">
+  
+```
+╔═══════════════════════════════════════════════════════════════════════════════════╗
+║  🛠️  T E C H   A R S E N A L                                                      ║
+║                                                                                   ║
+║  Infrastructure as Code • GitOps • Cloud Native • Observability • Automation     ║
+╚═══════════════════════════════════════════════════════════════════════════════════╝
+```
 
+</div>
+
+<br/>
+
+<!-- ─────────────────────────── CLOUD, CONTAINERS & ORCHESTRATION ─────────────────────── -->
+<h3 align="center">☁️ Cloud, Containers & Orchestration</h3>
 <table align="center">
   <tr>
-    <td align="center" width="96">
-      <a href="#Subodh Kamble-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
+    <td align="center" width="96" height="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="36" height="36" alt="GCP"/>
+      <br/><sub><b>GCP</b></sub>
     </td>
-    <td align="center" width="96">
-      <a href="#Subodh Kamble-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/MySQL_Dolphin.jpg/640px-MySQL_Dolphin.jpg" width="48" height="48" alt="Python" />
-      </a>
-      <br>MySQL
+    <td align="center" width="96" height="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="36" height="36" alt="AWS"/>
+      <br/><sub><b>AWS</b></sub>
     </td>
-    <td align="center" width="96">
-      <a href="#Subodh Kamble-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="Javascript" />
-      </a>
-      <br>JavaScript
+    <td align="center" width="96" height="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="36" height="36" alt="Azure"/>
+      <br/><sub><b>Azure</b></sub>
     </td>
-    <td align="center" width="96">
-      <a href="#Subodh Kamble-tech">
-        <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" width="48" height="48" alt="Bash" />
-      </a>
-      <br>Bash
+    <td align="center" width="96" height="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="36" height="36" alt="Kubernetes"/>
+      <br/><sub><b>Kubernetes</b></sub>
     </td>
-    <td align="center" width="96">
-      <a href="#Subodh Kamble-tech" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Linux_logo.jpg" width="48" height="48" alt="Linux" />
-      </a>
-      <br>Linux
+    <td align="center" width="96" height="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" height="36" alt="Docker"/>
+      <br/><sub><b>Docker</b></sub>
     </td>
-    <td align="center" width="96"> 
-      <a href="#Subodh Kamble-tech" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Inkscape_Logo.svg" width="48" height="48" alt="Next JS" />
-      </a>
-      <br>Inkscape
+    <td align="center" width="96" height="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" width="36" height="36" alt="Helm"/>
+      <br/><sub><b>Helm</b></sub>
     </td>
-    <td align="center" width="96">
-      <a href="#Subodh Kamble-tech" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
+    <td align="center" width="96" height="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="36" height="36" alt="Terraform"/>
+      <br/><sub><b>Terraform</b></sub>
+    </td>
+    <td align="center" width="96" height="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="36" height="36" alt="Ansible"/>
+      <br/><sub><b>Ansible</b></sub>
     </td>
   </tr>
-  
-  
   <tr>
-     <td align="center" width="96">
-      <a href="#Subodh Kamble-tech" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/640px-Svelte_Logo.svg.png" width="48" height="48" alt="Git" />
-      </a>
-      <br>Svelte
+    <td align="center" width="96" height="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" width="36" height="36" alt="ArgoCD"/>
+      <br/><sub><b>ArgoCD</b></sub>
     </td>
-    <td align="center" width="96">
-      <a href="#Subodh Kamble-tech" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" width="48" height="48" alt="Vim" />
-      </a>
-      <br>Vim
+    <td align="center" width="96" height="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="36" height="36" alt="Jenkins"/>
+      <br/><sub><b>Jenkins</b></sub>
     </td>
-    <td align="center" width="96">
-      <a href="#Subodh Kamble-tech" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" height="48" alt="PowerBI" />
-      </a>
-      <br>Power BI
+    <td align="center" width="96" height="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="36" height="36" alt="GitHub Actions"/>
+      <br/><sub><b>Actions</b></sub>
     </td>
-     <td align="center" width="96">
-      <a href="#Subodh Kamble-tech" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Markdown-blue-solid.svg" width="48" height="48" alt="PowerBI" />
-      </a>
-      <br> Markdown
+    <td align="center" width="96" height="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="36" height="36" alt="GitLab CI"/>
+      <br/><sub><b>GitLab CI</b></sub>
     </td>
-     <td align="center" width="96">
-      <a href="#Subodh Kamble-tech">
-        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="48" height="48" alt="Material UI" />
-      </a>
-      <br>Material ui
+    <td align="center" width="96" height="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="36" height="36" alt="Prometheus"/>
+      <br/><sub><b>Prometheus</b></sub>
     </td>
-    <td align="center" width="96">
-      <a href="#Subodh Kamble-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" width="48" height="48" alt="Haskell" />
-      </a>
-      <br>Haskell
+    <td align="center" width="96" height="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="36" height="36" alt="Grafana"/>
+      <br/><sub><b>Grafana</b></sub>
     </td>
-    <td align="center" width="96"> 
-      <a href="#Subodh Kamble-tech" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/OOjs_UI_icon_regular-expression-progressive.svg" width="48" height="48" alt="Redux" />
-      </a>
-      <br>regex
+    <td align="center" width="96" height="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="36" height="36" alt="NGINX"/>
+      <br/><sub><b>NGINX</b></sub>
+    </td>
+    <td align="center" width="96" height="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="36" height="36" alt="Linux"/>
+      <br/><sub><b>Linux</b></sub>
     </td>
   </tr>
+</table>
+
+<br/>
+
+<!-- ─────────────────────────── LANGUAGES, DATABASES & TOOLS ─────────────────────── -->
+<h3 align="center">💻 Languages, Databases & Tools</h3>
+<table align="center">
+  <tr>
+    <td align="center" width="96" height="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python"/>
+      <br/><sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="96" height="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="36" height="36" alt="Bash"/>
+      <br/><sub><b>Bash</b></sub>
+    </td>
+    <td align="center" width="96" height="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="36" height="36" alt="Go"/>
+      <br/><sub><b>Go</b></sub>
+    </td>
+    <td align="center" width="96" height="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript"/>
+      <br/><sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="96" height="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL"/>
+      <br/><sub><b>PostgreSQL</b></sub>
+    </td>
+    <td align="center" width="96" height="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB"/>
+      <br/><sub><b>MongoDB</b></sub>
+    </td>
+    <td align="center" width="96" height="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="36" height="36" alt="Redis"/>
+      <br/><sub><b>Redis</b></sub>
+    </td>
+    <td align="center" width="96" height="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL"/>
+      <br/><sub><b>MySQL</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96" height="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="Git"/>
+      <br/><sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="96" height="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" height="36" alt="GitHub"/>
+      <br/><sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" width="96" height="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="36" height="36" alt="ELK"/>
+      <br/><sub><b>ELK Stack</b></sub>
+    </td>
+    <td align="center" width="96" height="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vault/vault-original.svg" width="36" height="36" alt="Vault"/>
+      <br/><sub><b>Vault</b></sub>
+    </td>
+    <td align="center" width="96" height="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" width="36" height="36" alt="SonarQube"/>
+      <br/><sub><b>SonarQube</b></sub>
+    </td>
+    <td align="center" width="96" height="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opentelemetry/opentelemetry-original.svg" width="36" height="36" alt="OpenTelemetry"/>
+      <br/><sub><b>OTel</b></sub>
+    </td>
+    <td align="center" width="96" height="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="36" height="36" alt="FastAPI"/>
+      <br/><sub><b>FastAPI</b></sub>
+    </td>
+    <td align="center" width="96" height="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" width="36" height="36" alt="Neovim"/>
+      <br/><sub><b>Neovim</b></sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
   
+```
+┌─────────────────────────────────────────────────────────────────────────────────┐
+│  🔧 On-Prem K8s  │  📦 GitOps  │  🔄 CI/CD  │  📈 Observability  │  🔒 DevSecOps │
+└─────────────────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
 
     
 </table>
