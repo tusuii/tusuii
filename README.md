@@ -2,7 +2,7 @@
 <h2><img src="borderseperator.gif"></h2> -->
 <!-- <h1 align="left" id="Subodh Kamble-title">:wave: Hello there!  Subodh Kamble</h1> -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=2000&color=242B2E&center=false&vCenter=true&width=940&height=50&lines=%F0%9F%91%8B+Hello+there!+I'm+Subodh+Kamble+Welcome+to+my+GitHub+Profile!" align="left" alt="Hello there! I'm Subodh Kamble animated typed out">
-<h2><img src="borderseparator.gif"></h2>
+<h2><img src="borderseperator.gif"></h2>
 <br>
 
 
@@ -21,6 +21,7 @@
 - :speech_balloon: &nbsp;I like to talk about **DevOps/MlOps/DevSecOps**,**Gnu/Linux**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
 - :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/subodh-kamble)**
+- :coffee: &nbsp;Enjoy my work? **[Buy me a coffee](https://buymeacoffee.com/subodhka)**
 
 ![](https://komarev.com/ghpvc/?username=tusuii)
 
@@ -49,7 +50,7 @@
       <br/><sub><b>GCP</b></sub>
     </td>
     <td align="center" width="96" height="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="36" height="36" alt="AWS"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="36" height="36" alt="AWS"/>
       <br/><sub><b>AWS</b></sub>
     </td>
     <td align="center" width="96" height="80">
@@ -192,14 +193,23 @@
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
+<!-- ─────────────────────────── SUPPORT ─────────────────────── -->
+<h3 align="center">☕ Support My Work</h3>
 <div align="center">
-  
-
-
+  <p>If you find my projects or content helpful, consider buying me a coffee!</p>
+  <a href="https://buymeacoffee.com/subodhka">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee"/>
+  </a>
+  <br/><br/>
+  <a href="https://buymeacoffee.com/subodhka">
+    <img src="assets/bmc-qr.png" width="180" alt="Buy Me a Coffee QR code"/>
+  </a>
+  <br/>
+  <sub>Scan the QR code or click the button above</sub>
 </div>
 
-    
-</table>
+<br/>
+
 <h2><img src="borderseperator.gif"></h2>
 
 <!--
@@ -236,8 +246,8 @@
   <h2> <strong> My Github Stats </strong> <img src="borderseperator.gif"></h2>
   <img src="https://github-profile-trophy.vercel.app/?username=tusuii&theme=nord&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br> <br>
 <br>
-
-
+</div>
+</div>
 </details>
 
 <!--                                                                                                                                                 
